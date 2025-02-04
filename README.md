@@ -11,7 +11,7 @@ Este projeto implementa um temporizador cíclico que controla um semáforo com L
 - 3 resistores de 330Ω
 
 ### 📍 Pinagem
-- LED **Vermelho**: GPIO13 /
+- LED **Vermelho**: GPIO13 
 - LED **Amarelo**: GPIO12 
 - LED **Verde**: GPIO11 
 
