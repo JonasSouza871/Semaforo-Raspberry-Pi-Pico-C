@@ -44,6 +44,5 @@ int main() {
         printf("Semáforo em execução...\n");
         sleep_ms(1000);
     }
-
     return 0;
 }
