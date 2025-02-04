@@ -95,11 +95,13 @@ O temporizador é implementado utilizando a função `add_repeating_timer_ms` da
 
 Segue abaixo a pinagem dos LEDs para o Raspberry Pi Pico:
 
+![image](https://github.com/user-attachments/assets/38f4df57-c3cf-4d38-a0bc-2b17a3274e8c)
 
 
 
+🔗 **Link do Vídeo de Funcionamento**: 
 
-🔗 **Link do Vídeo de Funcionamento**: [Adicione aqui o link do vídeo]
+https://drive.google.com/file/d/1_AKL_6muWB2gaDubv69TWB5uigHegDtw/view?usp=sharing
 
 📞 **Contato**:
 
