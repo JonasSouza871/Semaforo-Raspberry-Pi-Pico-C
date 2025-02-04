@@ -104,6 +104,7 @@ Segue abaixo a pinagem dos LEDs para o Raspberry Pi Pico:
 📞 **Contato**:
 
 👤 Autor: Jonas Souza
+
 📧 E-mail: Jonassouza871@hotmail.com
 
 
